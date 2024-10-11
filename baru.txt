@@ -1,0 +1,49 @@
+<html lang="id">
+</html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selamat Ulang Tahun, Gibran Gedhing Semesta!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #ff4500;
+            font-size: 3em;
+        }
+        p {
+            font-size: 1.5em;
+        }
+        .container {
+            border: 2px solid #ffa07a;
+            padding: 20px;
+            border-radius: 10px;
+            background-color: #fff;
+            display: inline-block;
+        }
+        .btn {
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #ff4500;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .btn:hover {
+            background-color: #ff6347;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Selamat Ulang Tahun, Gibran Gedhing Semesta!</h1>
+        <p>Semoga di hari yang spesial ini, kebahagiaan dan keberuntungan selalu menyertaimu. Teruslah bersinar dan meraih semua impianmu!</p>
+        <a href="#" class="btn">Rayakan Bersama Kami</a>
+    </div>
+</body>
+</html>
